@@ -4,16 +4,16 @@
 [![Mastodon](https://img.shields.io/badge/Mastodon-5855DE?logo=mastodon&logoColor=white)](https://mas.to/@MickaelMaison)
 
 - 👨‍🔧 I’m a software engineer working at Red Hat
-- 💻 I’m a committer and the chair of the PMC for [Apache Kafka](https://kafka.apache.org/)
+- 💻 I’m a committer and the chair of the Project Management Committee for [Apache Kafka](https://kafka.apache.org/)
 - 😄 Pronouns: he/him
 
 # 📝 Recent Blog Posts
 
+- [Kafka Monthly Digest: October 2023](https://developers.redhat.com/blog/2023/11/02/kafka-monthly-digest-october-2023)
 - [Kafka Monthly Digest: September 2023](https://developers.redhat.com/blog/2023/10/02/kafka-monthly-digest-september-2023)
 - [Kafka Monthly Digest: August 2023](https://developers.redhat.com/blog/2023/09/01/kafka-monthly-digest-august-2023)
 - [Kafka Monthly Digest: July 2023](https://developers.redhat.com/blog/2023/07/31/kafka-monthly-digest-july-2023)
 - [Apache Kafka 3.5.0 Release Announcement](https://kafka.apache.org/blog#apache_kafka_350_release_announcement)
-- [Kafka Monthly Digest: June 2023](https://developers.redhat.com/blog/2023/07/03/kafka-monthly-digest-june-2023)
 
 # 💬 Talks
 
