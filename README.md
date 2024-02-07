@@ -9,6 +9,7 @@
 
 # 📝 Recent Blog Posts
 
+- [Kafka Monthly Digest: January 2024](https://developers.redhat.com/blog/2024/01/31/kafka-monthly-digest-january-2024)
 - [Kafka Monthly Digest: December 2023](https://developers.redhat.com/blog/2023/12/22/kafka-monthly-digest-december-2023)
 - [Kafka Monthly Digest: November 2023](https://developers.redhat.com/blog/2023/11/29/kafka-monthly-digest-november-2023)
 - [Getting started with tiered storage in Apache Kafka](https://developers.redhat.com/articles/2023/11/22/getting-started-tiered-storage-apache-kafka)
