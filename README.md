@@ -9,13 +9,11 @@
 
 # 📝 Recent Blog Posts
 
+- [Kafka Monthly Digest: April 2024](https://developers.redhat.com/blog/2024/05/02/kafka-monthly-digest-april-2024)
 - [Kafka Monthly Digest: March 2024](https://developers.redhat.com/blog/2024/03/29/kafka-monthly-digest-march-2024)
 - [Kafka Monthly Digest: February 2024](https://developers.redhat.com/blog/2024/03/01/kafka-monthly-digest-february-2024)
 - [Kafka Monthly Digest: January 2024](https://developers.redhat.com/blog/2024/01/31/kafka-monthly-digest-january-2024)
 - [Kafka Monthly Digest: December 2023](https://developers.redhat.com/blog/2023/12/22/kafka-monthly-digest-december-2023)
-- [Kafka Monthly Digest: November 2023](https://developers.redhat.com/blog/2023/11/29/kafka-monthly-digest-november-2023)
-- [Getting started with tiered storage in Apache Kafka](https://developers.redhat.com/articles/2023/11/22/getting-started-tiered-storage-apache-kafka)
-- [Apache Kafka 3.5.0 Release Announcement](https://kafka.apache.org/blog#apache_kafka_350_release_announcement)
 
 # 💬 Talks
 
