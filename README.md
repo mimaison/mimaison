@@ -1,7 +1,8 @@
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/MickaelMaison)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=x&logoColor=white)](https://twitter.com/MickaelMaison)
 [![Stack Overflow](https://img.shields.io/badge/StackOverflow-FE7A16?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/1765189/mickael-maison?tab=profile)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mickaelmaison/)
 [![Mastodon](https://img.shields.io/badge/Mastodon-5855DE?logo=mastodon&logoColor=white)](https://mas.to/@MickaelMaison)
+[![Bluesky](https://img.shields.io/badge/Bluesky-3985f7?logo=bluesky&logoColor=white)](https://bsky.app/profile/mickaelmaison.bsky.social)
 
 - 👨‍🔧 I’m a software engineer working at Red Hat
 - 💻 I’m a committer and the chair of the Project Management Committee for [Apache Kafka](https://kafka.apache.org/)
@@ -9,11 +10,11 @@
 
 # 📝 Recent Blog Posts
 
+- [Kafka Monthly Digest: November 2024](https://developers.redhat.com/blog/2024/12/02/kafka-monthly-digest-november-2024)
 - [Kafka Monthly Digest: October 2024](https://developers.redhat.com/blog/2024/11/04/kafka-monthly-digest-october-2024)
 - [Kafka Monthly Digest: September 2024](https://developers.redhat.com/blog/2024/10/01/kafka-monthly-digest-september-2024)
 - [Kafka Monthly Digest: August 2024](https://developers.redhat.com/blog/2024/09/02/kafka-monthly-digest-august-2024)
 - [Kafka Monthly Digest: July 2024](https://developers.redhat.com/blog/2024/08/01/kafka-monthly-digest-july-2024)
-- [Kafka Monthly Digest: June 2024](https://developers.redhat.com/blog/2024/07/01/kafka-monthly-digest-june-2024)
 
 # 💬 Talks/Interviews
 
