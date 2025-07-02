@@ -10,15 +10,16 @@
 
 # 📝 Recent Blog Posts
 
+- [Kafka Monthly Digest: June 2025](https://developers.redhat.com/blog/2025/07/01/kafka-monthly-digest-june-2025)
 - [Kafka Monthly Digest: May 2025](https://developers.redhat.com/blog/2025/06/02/kafka-monthly-digest-may-2025)
 - [Kafka Monthly Digest: April 2025](https://developers.redhat.com/blog/2025/05/06/kafka-monthly-digest-april-2025)
 - [Kafka Monthly Digest: March 2025](https://developers.redhat.com/blog/2025/04/01/kafka-monthly-digest-march-2025)
 - [Kafka Monthly Digest: February 2025](https://developers.redhat.com/blog/2025/03/03/kafka-monthly-digest-february-2025)
-- [Kafka Monthly Digest: January 2025](https://developers.redhat.com/blog/2025/02/03/kafka-monthly-digest-january-2025)
 
 # 💬 Talks/Interviews
 
-- [Kafka Connect: Build & Run Data Pipelines](https://www.youtube.com/watch?v=R7xA6VDy80A) - GOTO Book Club
+- [Improving Kafka monitoring with native Prometheus Metrics Reporter](https://www.youtube.com/watch?v=evKGEziQj54) - StrimziCon 2025
+- [Kafka Connect: Build & Run Data Pipelines](https://www.youtube.com/watch?v=R7xA6VDy80A) - GOTO Book Club 2024
 - [MirrorMaker: Beyond the Basics](https://www.confluent.io/events/kafka-summit-london-2023/mirrormaker-beyond-the-basics/) - Kafka Summit London 2023
 - [Getting up to speed with Kafka Connect](https://www.confluent.io/en-gb/events/kafka-summit-london-2022/getting-up-to-speed-with-kafka-connect-from-the-basics-to-the-latest/) - Kafka Summit London 2022
 - [Developer’s guide to contributing code to Kafka](https://www.confluent.io/events/kafka-summit-london-2022/developers-guide-to-contributing-code-to-kafka/) - Kafka Summit London 2022
