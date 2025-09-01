@@ -4,7 +4,7 @@
 [![Mastodon](https://img.shields.io/badge/Mastodon-5855DE?logo=mastodon&logoColor=white)](https://mas.to/@MickaelMaison)
 [![Bluesky](https://img.shields.io/badge/Bluesky-3985f7?logo=bluesky&logoColor=white)](https://bsky.app/profile/mickaelmaison.bsky.social)
 
-- 👨‍🔧 I’m a software engineer working at Red Hat
+- 👨‍🔧 I’m a software engineer working at IBM
 - 💻 I’m a committer and the chair of the Project Management Committee for [Apache Kafka](https://kafka.apache.org/)
 - 😄 Pronouns: he/him
 
