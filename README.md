@@ -10,11 +10,11 @@
 
 # 📝 Recent Blog Posts
 
+- [Kafka Monthly Digest: March 2026](https://developers.redhat.com/blog/2026/04/03/kafka-monthly-digest-march-2026)
 - [Kafka Monthly Digest: February 2026](https://developers.redhat.com/blog/2026/03/03/kafka-monthly-digest-february-2026)
 - [Kafka Monthly Digest: January 2026](https://developers.redhat.com/blog/2026/02/02/kafka-monthly-digest-january-2026)
 - [Kafka Monthly Digest: December 2025](https://developers.redhat.com/blog/2026/01/08/kafka-monthly-digest-december-2025)
 - [Kafka Monthly Digest: November 2025](https://developers.redhat.com/blog/2025/12/01/kafka-monthly-digest-november-2025)
-- [Kafka Monthly Digest: October 2025](https://developers.redhat.com/blog/2025/11/03/kafka-monthly-digest-october-2025)
 
 # 💬 Talks/Interviews
 
