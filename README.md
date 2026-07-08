@@ -10,14 +10,15 @@
 
 # 📝 Recent Blog Posts
 
+- [Kafka Monthly Digest: June 2026](https://developers.redhat.com/blog/2026/07/01/kafka-monthly-digest-june-2026)
 - [Kafka Monthly Digest: May 2026](https://developers.redhat.com/blog/2026/06/02/kafka-monthly-digest-may-2026)
 - [Kafka Monthly Digest: April 2026](https://developers.redhat.com/blog/2026/05/04/kafka-monthly-digest-april-2026)
 - [Kafka Monthly Digest: March 2026](https://developers.redhat.com/blog/2026/04/03/kafka-monthly-digest-march-2026)
 - [Kafka Monthly Digest: February 2026](https://developers.redhat.com/blog/2026/03/03/kafka-monthly-digest-february-2026)
-- [Kafka Monthly Digest: January 2026](https://developers.redhat.com/blog/2026/02/02/kafka-monthly-digest-january-2026)
 
 # 💬 Talks/Interviews
 
+- [Disaster Recovery in action with Kafka and Strimzi](https://www.youtube.com/watch?v=FdGm5o_74cw) - StrimziCon 2026
 - [Improving Kafka monitoring with native Prometheus Metrics Reporter](https://www.youtube.com/watch?v=evKGEziQj54) - StrimziCon 2025
 - [Kafka Connect: Build & Run Data Pipelines](https://www.youtube.com/watch?v=R7xA6VDy80A) - GOTO Book Club 2024
 - [MirrorMaker: Beyond the Basics](https://www.confluent.io/events/kafka-summit-london-2023/mirrormaker-beyond-the-basics/) - Kafka Summit London 2023
